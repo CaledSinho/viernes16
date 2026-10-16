@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\bin\Debug\Clase_Ejercicio.exe.config
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\bin\Debug\Clase_Ejercicio.exe
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\bin\Debug\Clase_Ejercicio.pdb
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\bin\Debug\Clase_Ejercicio.xml
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.vbproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.Resources.resources
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.exe
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.xml
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.pdb
+C:\Users\admin\Desktop\Clase_Viernes09\Clase_Ejercicio\Clase_Ejercicio\obj\Debug\Clase_Ejercicio.Form1.resources
